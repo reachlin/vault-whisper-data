@@ -4,6 +4,9 @@
   "rooms": {
     "general": {
       "issue": 1
+    },
+    "jobs": {
+      "issue": 2
     }
   }
 }
